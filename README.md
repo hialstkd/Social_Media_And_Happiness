@@ -8,6 +8,8 @@
 
 By refering to the file Weekday vs Activity we can see that Wednesday has the highest activity compared to any other day, which raised another question. We decided to see if perhaps there was a correlation between Activity and Fatigue, and that term "Happy Hump Day" had more context. We also compared that information to other emotions. Since statistically there was no significant results, we decided to look into other areas.
 
+![](Images/WeekDay%20vs%20Activity.png)
+
 ## Saturation of notifications
 
 We created a dataframe for a select group of participants to determine the average minutes between notifications for date : 05/22/2017 and found that those individuals with a higher amount of notifications had scored a bit higher for fatigue and concentration and not necessarily depression. As a result other questions were also raised from this information, such as the impact of traumatic news on individuals.
