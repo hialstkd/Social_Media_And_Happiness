@@ -10,7 +10,7 @@ By refering to the file Weekday vs Activity we can see that Wednesday has the hi
 
 ## Saturation of notifications
 
-We created a dataframe for a select group of participants to determine the average minutes between notifications for date:05/22/2017 and found that those individuals with a higher amount of notifications had scored a bit higher for fatigue and concentration and not necessarily depression. As a result other questions were also raised from this information, such as the impact of traumatic news on individuals.
+We created a dataframe for a select group of participants to determine the average minutes between notifications for date : 05/22/2017 and found that those individuals with a higher amount of notifications had scored a bit higher for fatigue and concentration and not necessarily depression. As a result other questions were also raised from this information, such as the impact of traumatic news on individuals.
 
 ## The Manchester Bombing on 5/22/2017
 
