@@ -13,13 +13,13 @@
   - Added data points on phase of the moon through **Ephem** library
   
   ## Libraries Used
-  *Pandas
-  *Numpy
-  *Ephem
-  *Datetime
-  *Matplotlib
-  *Scipy(Linregress)
-  *Sklearn(Datasets)
+  * Pandas
+  * Numpy
+  * Ephem
+  * Datetime
+  * Matplotlib
+  * Scipy(Linregress)
+  * Sklearn(Datasets)
 
 ## Activity during the Week
 
