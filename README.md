@@ -3,6 +3,23 @@
 # Topic:
 
   Our team HashtagSocialMedia decided to see if social media usage affected our mental health. We asked ourselves several questions to determine this. The first question we asked ourselves is if activity varies throughout the week and if so, what impact it had on certain emotions. The reason we asked this question is to see if perhaps our mood differed during the work week vs the weekend or if our mood was better in the evening as opposed to early morning. We also had limited data on passive and active use of social media, and we decided to take advantage of this to see if perhaps there was a difference between our mental health and passive social media use vs active social media use and mental health. We also wanted to compare the frequency of the notifications and see if perhaps it caused stress or depression. The goal of having this information was to see if it was the type of content that was causing a negative mental health impact vs using social media as an outlet for our emotions. We also considered outside factors such as the type of news exposed and lunar phases.
+  
+# Process:
+  ## Data
+  - Data Set On Social Media and Happiness was found in https://osf.io/czs6y/
+  
+  ## Data Clean Up
+  - Cleaned Data by dropping N/A and unnecessary columns through juypter notebook.
+  - Added data points on phase of the moon through **Ephem** library
+  
+  ## Libraries Used
+  -Pandas
+  -Numpy
+  -Ephem
+  -Datetime
+  -Matplotlib
+  -Scipy(Linregress)
+  -Sklearn(Datasets)
 
 ## Activity during the Week
 
